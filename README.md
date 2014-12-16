@@ -25,10 +25,14 @@ Titre 2
 
 Code source java :
 
-	public static void main(String[] args){
+	public class HelloTest{
+
+		public static void main(String[] args)
+		{	
 	
-		System.out.println("Hello World!");
+			System.out.println("Hello World!");
 		
+		}
 	}
 	
 
